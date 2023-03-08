@@ -1,0 +1,30 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 45%;
+  height: 80%;
+  padding: 0 20px;
+  margin: 1%;
+  border-radius: 10px;
+  background-image: url('https://i.postimg.cc/nrPbmHPm/abstratos-techno-fundo-ligar-linhas.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  color: #afafaf;
+}
+
+.btn {
+  width: 40%;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background-color: #f38d19;
+  color: #ffffff;
+  font-size: 100%;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 5%;
+}
